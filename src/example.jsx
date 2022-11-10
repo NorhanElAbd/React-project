@@ -1,0 +1,1 @@
+var element = <h1 className="">Hamada</h1>
